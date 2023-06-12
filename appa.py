@@ -9,7 +9,6 @@
 import streamlit as st # to build attractive user interfaces in no time.
 import pandas as pd # data analysis library
 import numpy as np # support arrays and matrices library
-import chart_studio.plotly as py #provides a web-service for hosting graphs
 import plotly.offline as po #generate graphs offline
 import plotly.graph_objs as pg #to represent figures
 import matplotlib.pyplot as plt #interactive visualizations library
