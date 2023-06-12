@@ -14,11 +14,6 @@ import plotly.graph_objs as pg #to represent figures
 import matplotlib.pyplot as plt #interactive visualizations library
 import plotly.express as px # create interactive plots with very little code
 import seaborn as sns #data visualization library
-#%matplotlib inline
-
-import warnings # to ignore warnings
-warnings.filterwarnings('ignore')
-
 
 # # Data Loading
 
